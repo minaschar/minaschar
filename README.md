@@ -1,8 +1,6 @@
 ### Hello, i'm Minas - Theodoros Charakopoulos 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently student in the Department of Applied Informatics - Computer Science and Technology, of University of Macedonia.
 - 🌱 I’m currently learning java, python, css, javaScript, html and more things about Computer Science
 - 👯 I’m looking to collaborate on Object-oriented designed softwares
