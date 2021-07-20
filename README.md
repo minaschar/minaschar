@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning java, python, css, javaScript, html, php, c and more things about Computer Science
 - 👯 I’m looking to collaborate on Object-oriented designed softwares
 - 📫 How to reach me: Here is my linkedin Profile-> Minas-Theodoros Charakopoulos
-- 😄 Pronouns: He/His
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ics20072&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
