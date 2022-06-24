@@ -1,9 +1,5 @@
 <h3 align="center">A passionate Applied Informatics student from Greece</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ics20072&label=Profile%20views&color=0e75b6&style=flat" alt="ics20072" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ics20072" alt="ics20072" /></a> </p>
-
 - 🌱 I’m currently learning **NodeJS and Python**
 
 - 📫 How to reach me **m.charakopoulos@gmail.com**
