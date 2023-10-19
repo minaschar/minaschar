@@ -1,4 +1,4 @@
-<h2 align="center">A passionate Applied Informatics graduate from Greece <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" width="60"/></h2>
+<h2 align="center">A passionate Software Engineer from Greece <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" width="60"/></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
