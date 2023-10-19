@@ -1,6 +1,8 @@
-<h2 align="center">A passionate Software Engineer from Greece <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" width="60"/></h2>
-<h3 align="center">BSc Applied Informatics - Computer Science and Technology</h3>
-<h3 align="center">MSc Applied Informatics - Software Development and Cloud</h3>
+<h2 align="center">A passionate Software Engineer from Greece</h2>
+<h4>MSc Applied Informatics - Software Development and Cloud</h4>
+<h4>BSc Applied Informatics - Computer Science and Technology</h4>
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
