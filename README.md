@@ -1,4 +1,4 @@
-<h2 align="center">A passionate Software Engineer from Greece</h2>
+<h2 align="center">Software Engineer - Back-End developer</h2>
 <h4>MSc Applied Informatics - Software Development and Cloud</h4>
 <h4>BSc Applied Informatics - Computer Science and Technology</h4>
 
